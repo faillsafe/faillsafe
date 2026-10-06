@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="110" viewBox="0 0 620 110" font-family="'Ubuntu Mono','DejaVu Sans Mono',Consolas,monospace" font-size="17">
+  <style>
+    .t{fill:#1f2328}
+    .u{fill:#4e9a06;font-weight:bold}
+    .p{fill:#3465a4;font-weight:bold}
+    @media (prefers-color-scheme: dark){
+      .t{fill:#e6edf3}
+      .p{fill:#729fcf}
+    }
+  </style>
+  <g xml:space="preserve">
+    <text x="4" y="22"><tspan class="u">root@faill</tspan><tspan class="t">:</tspan><tspan class="p">/</tspan><tspan class="t"># whoami</tspan></text>
+    <text x="4" y="44" class="t">root</text>
+    <text x="4" y="72"><tspan class="u">root@faill</tspan><tspan class="t">:</tspan><tspan class="p">/</tspan><tspan class="t"># cat</tspan></text>
+    <text x="4" y="94" class="t">When the system fails you, someone has to stay online.</text>
+  </g>
+</svg>
